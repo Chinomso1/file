@@ -1,0 +1,45 @@
+#img{
+    width: 200%;
+    height: 100;   
+    margin-bottom: 10px;
+}
+
+#fact {
+    font-style: italic;  
+    font-weight:bolder;
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+#list {
+    list-style: none;
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+#main-div {
+    background-color: gray;
+    border: 2px solid black;
+    padding: 15px;
+    width: 300px;
+    margin: auto;
+}
+
+#second-div {
+    border: 1px solid black;
+}
+
+#info {
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+.imgCtn{
+    width: 100%;
+}
+.imgCtn img{
+    width: 100%;
+}
